@@ -100,7 +100,3 @@ Viết một bài luận 300–500 từ mô tả lộ trình nghề nghiệp c�
 * Có lộ trình theo thời gian
 * Dựa trên kết quả phân tích bản thân
 * Có kế hoạch hành động thực tế
-
----
-
-# Bạn muốn mình tạo **phiếu bài tập PDF**, **template Google Docs**, hay **mẫu bảng Career Path** để SV điền không?
