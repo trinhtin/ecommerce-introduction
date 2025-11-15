@@ -1147,6 +1147,130 @@ Dưới đây là **Career Path 5 năm dành cho Mobile Developer (Android/iOS/F
 
 ---
 
+# 🎯 **Career Path 5 năm – AI Engineer**
+
+## **Năm 1 – Fresher / Junior AI Engineer**
+
+### 🎯 Mục tiêu chính
+
+* Nắm chắc nền tảng AI/ML.
+* Biết triển khai mô hình cơ bản vào sản phẩm.
+
+### 🔧 Kỹ năng cần đạt
+
+* Python (bắt buộc): NumPy, Pandas, Scikit-learn.
+* Deep learning: PyTorch hoặc TensorFlow.
+* MLOps cơ bản: Git, Docker, Linux.
+* Toán: Linear Algebra, Probability, Calculus.
+* Data pipeline: xử lý dữ liệu, feature engineering.
+
+### 📝 Công việc thực tế
+
+* Xây mô hình ML cơ bản (classification, regression).
+* Làm data preprocessing.
+* Fine-tune mô hình pre-trained nhỏ.
+* Viết API inference bằng Flask/FastAPI.
+
+---
+
+## **Năm 2 – Mid-level AI Engineer**
+
+### 🎯 Mục tiêu chính
+
+* Tối ưu mô hình, hiểu mô hình sâu.
+* Làm việc độc lập.
+
+### 🔧 Kỹ năng cần đạt
+
+* Training pipeline: DVC, MLflow.
+* Optimization: hyperparameter tuning.
+* Deep learning nâng cao: CNN, RNN, Transformer cơ bản.
+* Kiến trúc hệ thống AI: inference pipeline.
+
+### 📝 Công việc thực tế
+
+* Triển khai mô hình lên cloud (AWS/GCP/Azure).
+* Fine-tune các mô hình lớn (BERT, ViT…).
+* Viết service chạy real-time inference.
+* Làm việc với GPU, tăng tốc huấn luyện.
+
+---
+
+## **Năm 3 – Senior AI Engineer**
+
+### 🎯 Mục tiêu chính
+
+* Thiết kế hệ thống AI ở quy mô lớn.
+* Đưa mô hình vào sản phẩm thật cho hàng nghìn user.
+
+### 🔧 Kỹ năng cần đạt
+
+* MLOps nâng cao: CI/CD cho ML, Kubernetes, Kubeflow.
+* Distributed training: DeepSpeed, Horovod.
+* LLM pipeline: LoRA, RAG, Vector DB.
+* Design pattern trong AI system.
+
+### 📝 Công việc thực tế
+
+* Thiết kế kiến trúc cho hệ thống AI ở production.
+* Tối ưu chi phí inference GPU.
+* Làm A/B testing mô hình.
+* Mentor fresher/junior.
+
+---
+
+## **Năm 4 – Lead AI Engineer / AI Architect**
+
+### 🎯 Mục tiêu chính
+
+* Thiết kế solution AI cho doanh nghiệp.
+* Quản lý kỹ thuật và định hướng R&D.
+
+### 🔧 Kỹ năng cần đạt
+
+* Thiết kế kiến trúc LLM-based system (GraphRAG, multi-agent).
+* Data governance, AI governance.
+* Kinh nghiệm tối ưu latency, throughput lớn.
+* Kỹ năng kiến trúc hệ thống (High-level design).
+
+### 📝 Công việc thực tế
+
+* Là kiến trúc sư giải pháp AI cho các dự án.
+* Quản lý nhóm 4–10 kỹ sư AI.
+* Review code, review mô hình, định hướng tech stack.
+
+---
+
+## **Năm 5 – Principal AI Engineer / AI Tech Lead**
+
+### 🎯 Mục tiêu chính
+
+* Xây dựng chiến lược AI cho doanh nghiệp.
+* Tạo ra các giải pháp AI quy mô lớn (enterprise level).
+
+### 🔧 Kỹ năng cần đạt
+
+* Lãnh đạo kỹ thuật ở quy mô tổ chức.
+* Thiết kế kiến trúc AI end-to-end.
+* Triển khai hệ thống multi-modal AI/LLM.
+
+### 📝 Công việc thực tế
+
+* Đưa chiến lược AI của doanh nghiệp vào roadmap 3–5 năm.
+* Nghiên cứu ứng dụng kỹ thuật mới (LLM, AGI, multi-agent).
+* Hợp tác với CTO, Data Director.
+
+---
+
+# 📌 **Lộ trình kỹ năng bổ sung**
+
+* **Soft skills**: Communication, presentation, teamwork.
+* **Math for AI**: Optimization, statistics.
+* **Cloud**: AWS Sagemaker, Vertex AI, Azure ML.
+* **Tools**: Weights & Biases, Ray, Airflow.
+
+---
+
 # 🎯 Career Canvas Template
 
 A. **Thông tin cá nhân**
