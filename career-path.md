@@ -880,6 +880,273 @@ Dưới đây là **Career Path 5 năm dành cho Mobile Developer (Android/iOS/F
 
 ---
 
+# 🎯 **Career Path 5 năm – Data Analyst**
+
+## **Năm 1 – Junior Data Analyst**
+
+### 🎯 Mục tiêu
+
+* Thành thạo kỹ năng phân tích dữ liệu cơ bản.
+* Làm việc được với dữ liệu thực tế của doanh nghiệp.
+
+### 🔧 Kỹ năng cần đạt
+
+* Excel/Google Sheets nâng cao (Pivot, VLOOKUP/XLOOKUP, Index-Match)
+* SQL cơ bản: SELECT, JOIN, GROUP BY, HAVING
+* Data Visualization: Power BI hoặc Tableau
+* Python cơ bản: pandas, numpy
+* Hiểu các KPI cơ bản trong business
+
+### 📝 Công việc
+
+* Làm sạch dữ liệu (data cleaning)
+* Viết query SQL để lấy dữ liệu
+* Tạo báo cáo định kỳ cho doanh nghiệp
+* Hỗ trợ phân tích theo yêu cầu
+
+---
+
+## **Năm 2 – Data Analyst**
+
+### 🎯 Mục tiêu
+
+* Tự chủ phân tích dữ liệu, tạo dashboard hoàn chỉnh.
+* Bắt đầu tham gia phân tích chuyên sâu.
+
+### 🔧 Kỹ năng mở rộng
+
+* SQL nâng cao (window functions, CTE)
+* Python nâng cao: data wrangling, exploratory data analysis
+* Power BI/Tableau chuyên sâu
+* Cơ bản về Data Warehouse, ETL
+* Kỹ năng trình bày insight
+
+### 📝 Công việc
+
+* Xây dựng dashboard theo yêu cầu phòng ban
+* Tối ưu query, kết nối nhiều nguồn dữ liệu
+* Phân tích hành vi người dùng
+* Đóng góp insight cho phòng marketing/sales
+
+---
+
+## **Năm 3 – Senior Data Analyst**
+
+### 🎯 Mục tiêu
+
+* Trở thành người dẫn dắt phân tích trong nhóm.
+* Có khả năng hiểu bài toán kinh doanh & đề xuất giải pháp dựa trên dữ liệu.
+
+### 🔧 Kỹ năng mở rộng
+
+* Thiết kế dashboard tiêu chuẩn cho doanh nghiệp
+* Thiết kế mô hình dữ liệu (Data Modeling: Star Schema, Snowflake)
+* A/B Testing, causal inference cơ bản
+* Kỹ năng kể chuyện bằng dữ liệu (Data Storytelling)
+
+### 📝 Công việc
+
+* Lead các phân tích lớn của team
+* Đề xuất cải tiến dựa trên dữ liệu
+* Làm việc trực tiếp với Product Manager, Marketing Manager
+* Mentor Intern/Junior
+
+---
+
+## **Năm 4 – Data Specialist / Analytics Lead**
+
+### 🎯 Mục tiêu
+
+* Quản lý mini-team Data hoặc làm chuyên gia phân tích cho phòng ban lớn.
+
+### 🔧 Kỹ năng mở rộng
+
+* Quản lý dự án data
+* Xây dựng KPI framework cho doanh nghiệp
+* Machine Learning cơ bản (regression, classification)
+* Làm việc với Big Data (Spark, Databricks – tùy công ty)
+
+### 📝 Công việc
+
+* Giám sát chất lượng dữ liệu
+* Xây dựng hệ thống báo cáo chuẩn hóa
+* Dẫn dắt các dự án phân tích cross-team
+* Đề xuất chiến lược data cho phòng ban
+
+---
+
+## **Năm 5 – Data Analytics Manager / Data Scientist (Transition)**
+
+### 🎯 Hướng phát triển
+
+**Hướng 1 – Data Analytics Manager**
+
+* Lãnh đạo team phân tích dữ liệu
+* Xây dựng chiến lược phân tích toàn công ty
+
+**Hướng 2 – Data Scientist**
+
+* Chuyên sâu vào mô hình hóa
+* Ứng dụng ML vào dự đoán & tối ưu chiến lược kinh doanh
+
+### 🔧 Kỹ năng cấp cao
+
+* Leadership & communication
+* Business understanding sâu
+* ML model deployment cơ bản
+* Quản trị Data Governance
+
+---
+
+# 📌 **Lộ trình kỹ năng tổng hợp**
+
+| Năm   | Kỹ năng trọng tâm           | Mức độ                |
+| ----- | --------------------------- | --------------------- |
+| Năm 1 | Excel, SQL cơ bản, Power BI | Beginner              |
+| Năm 2 | SQL nâng cao, Python        | Intermediate          |
+| Năm 3 | Data Modeling, A/B Test     | Intermediate–Advanced |
+| Năm 4 | ML cơ bản, Big Data         | Advanced              |
+| Năm 5 | Leadership / Data Science   | Expert                |
+
+---
+
+# 🎯 **Career Path 5 năm – UI/UX Designer**
+
+## **Năm 1 – Junior UI/UX Designer**
+
+### 🎯 Mục tiêu
+
+* Làm thành thạo các công cụ thiết kế.
+* Hiểu quy trình UX cơ bản và tham gia dự án nhỏ.
+
+### 🔧 Kỹ năng cần đạt
+
+* Figma/Adobe XD: Layout, Components, Auto-layout
+* Thiết kế giao diện cơ bản (UI Fundamentals)
+* UX Fundamentals: User research, persona, empathy map
+* Wireframing & prototyping
+* Basic usability principles (Nielsen’s Heuristics)
+* Giao tiếp trong nhóm (dev – product – marketing)
+
+### 📝 Công việc
+
+* Tạo wireframe cho các tính năng đơn giản
+* Thiết kế UI theo guideline có sẵn
+* Sửa giao diện theo feedback từ senior và PM
+* Tạo prototype cơ bản cho user test
+
+---
+
+## **Năm 2 – UI/UX Designer**
+
+### 🎯 Mục tiêu
+
+* Tự chủ thiết kế giao diện và tham gia vào toàn bộ quá trình UX.
+* Đóng góp ý tưởng thiết kế dựa trên dữ liệu.
+
+### 🔧 Kỹ năng mở rộng
+
+* UI nâng cao: Design system, responsive design
+* UX research: Interview, card sorting, user journey
+* Tối ưu trải nghiệm người dùng (UX Optimization)
+* Accessibility (WCAG)
+* Prototype chất lượng cao (micro-interactions)
+* Làm việc với developer (handoff bằng Figma)
+
+### 📝 Công việc
+
+* Thiết kế full flow cho website/app
+* Xây dựng component library cơ bản
+* Tổ chức user testing và phân tích kết quả
+* Tối ưu onboarding, conversion flow
+
+---
+
+## **Năm 3 – Senior UI/UX Designer**
+
+### 🎯 Mục tiêu
+
+* Trở thành người dẫn dắt thiết kế trong dự án.
+* Xây dựng Design System chuẩn cho doanh nghiệp.
+
+### 🔧 Kỹ năng mở rộng
+
+* Leadership cơ bản trong nhóm nhỏ
+* End-to-end UX Design
+* Data-informed design (Google Analytics, Heatmap)
+* UX Writing cơ bản
+* Phối hợp chặt với Product Manager & Engineer Lead
+* Facilitation workshop (Design Sprint, Ideation Workshop)
+
+### 📝 Công việc
+
+* Lead thiết kế cho toàn bộ sản phẩm/feature lớn
+* Đánh giá UX toàn hệ thống và đề xuất cải tiến
+* Mentor Junior, hướng dẫn quy trình và review thiết kế
+* Làm việc trực tiếp với stakeholder để xác định yêu cầu
+
+---
+
+## **Năm 4 – Product Designer / UX Lead**
+
+### 🎯 Hướng phát triển
+
+* Nghiêng về Product Thinking.
+* Ảnh hưởng tới chiến lược sản phẩm, không chỉ thiết kế giao diện.
+
+### 🔧 Kỹ năng mở rộng
+
+* Product analytics (Funnel, Retention, Cohort)
+* Design Thinking chuyên sâu
+* Gamification & behavior design
+* Stakeholder management
+* Project management
+
+### 📝 Công việc
+
+* Phụ trách toàn bộ UX của sản phẩm
+* Xây dựng Design System nâng cao, quy chuẩn hóa thiết kế
+* Làm việc trực tiếp với C-level/Product Owner
+* Quản lý 2–5 designers
+
+---
+
+## **Năm 5 – Head of Design / UX Manager / Specialized Expert**
+
+### 🎯 Hướng phát triển
+
+**Hướng 1 – UX Manager / Head of Design**
+
+* Lãnh đạo cả bộ phận thiết kế.
+* Đặt tầm nhìn thiết kế dài hạn.
+
+**Hướng 2 – Specialized Expert**
+
+* Chuyên sâu 1 mảng:
+  UX Researcher / Interaction Designer / Product Designer Specialist / Design System Architect
+
+### 🔧 Kỹ năng cấp cao
+
+* Design leadership
+* Strategy & vision
+* Cross-functional communication
+* UX Maturity Model
+* Quản trị hệ thống Design System tầm công ty
+
+---
+
+# 📌 **Tóm tắt lộ trình kỹ năng**
+
+| Năm       | Trọng tâm                             | Mức độ                |
+| --------- | ------------------------------------- | --------------------- |
+| **Năm 1** | UI cơ bản, UX cơ bản, Figma           | Beginner              |
+| **Năm 2** | Design system, UX research, prototype | Intermediate          |
+| **Năm 3** | Data-driven design, leadership        | Intermediate–Advanced |
+| **Năm 4** | Product design, analytics             | Advanced              |
+| **Năm 5** | Design leadership / chuyên gia        | Expert                |
+
+---
+
 # 🎯 Career Canvas Template
 
 A. **Thông tin cá nhân**
